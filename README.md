@@ -15,4 +15,4 @@ The 2 .py scripts are crop_train_images.py and crop_test_images.py
 
 After the data is preprocesed it can be used for traning and testinng of different machines..
 
-Here I have used few (20) classes of images form both testing and traing directoriesand merged to form a single class of cars for traning and evaluation of the feed forwad neural network..
+Here I have used few (20) classes of images form both testing and traing directories and merged to form a single class of cars for traning and evaluation of the feed forwad neural network..
